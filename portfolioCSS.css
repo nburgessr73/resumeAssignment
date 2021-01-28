@@ -1,0 +1,58 @@
+/* Activity Color Palette: Will use the color palette chosen in the CSS lesson
+#F7FFF7 - almost white
+#343434 - dark gray - almost black
+#2F3061 - dark blue
+#FFE66D - yellow
+#A1C6D7 - light blue
+*/
+
+/* Global styles 
+____________________________*/
+body {
+    
+    font-family: Arial;
+}
+main {
+    width: 80%;
+}
+a.button {
+    
+    text-decoration-line: none;
+    padding: 3px;
+    background-color: #2F3061;
+    color: #F7FFF7;
+    border-radius: 4px;
+}
+
+
+/* Profile styles 
+____________________________*/
+.thumbNail {
+    
+    width: 160px;
+}
+#pandaIn{
+    display: inline; 
+}
+/* Work Experience styles 
+____________________________*/
+
+
+
+/* Employment Section styles 
+____________________________*/
+
+
+/* Education Section styles 
+____________________________*/
+.noDot{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+    
+}
+
+
+/* Contact styles 
+____________________________*/
