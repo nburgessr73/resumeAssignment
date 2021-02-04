@@ -1,19 +1,35 @@
-/* Activity Color Palette: Will use the color palette chosen in the CSS lesson
-#F7FFF7 - almost white
-#343434 - dark gray - almost black
-#2F3061 - dark blue
-#FFE66D - yellow
-#A1C6D7 - light blue
+/* Activity Color Palette: Will use the color palette chosen in the CSS lesson --------Coolors compliment l blush
+#F7FFF7 - almost white---------- #FBEEF1 - lavender blush
+#343434 - dark gray - almost black # Sea Green Crayola
+#2F3061 - dark blue ----------- #106A5A Bottle Green
+#FFE66D - yellow --------- #F70A35 Imperial Red
+#A1C6D7 - light blue --------- #87E6D4 Middle Blue Green
 */
 
 /* Global styles 
 ____________________________*/
+html {
+    box-sizing: border-box;
+}
+*, *:before, *:after {
+    box-sizing: inherit;
+}
 body {
+   
+    font-family: "Montserrat", sans-serif;
+    background-color: antiquewhite;
     
-    font-family: Arial;
 }
 main {
-    width: 80%;
+    width: 100%;
+    padding-left: 20px;
+    margin: 0 auto; 
+
+}
+
+.button {
+    display: block;
+    width: 200px;
 }
 a.button {
     
@@ -23,21 +39,50 @@ a.button {
     color: #F7FFF7;
     border-radius: 4px;
 }
-
-
+section {
+    padding: 20px;
+}
+header {
+    background-image: url("../placeholderImages/joanna-kosinska-unsplash.jpg");
+width}
+header h1 {
+    font-family: 'Courgette', cursive; 
+    font-size: 48px;
+    text-shadow: 2px 2px 6px gray;
+    text-align: center;
+    
+}
+@font-face {
+    font-family: "Courgette-Regular";
+    src: url("/css/Courgette-Regular.ttf");
+}
 /* Profile styles 
 ____________________________*/
+#tosha {
+    width: 140px;
+    height: 221px;
+    display: inline;
+    border-radius: 7px;
+    padding: 4px;
+}
 .thumbNail {
     
     width: 160px;
 }
-#pandaIn{
-    display: inline; 
+#top-summary p {
+    display: inline-block;
+}
+#top-summary img {
+    float: left;
 }
 /* Work Experience styles 
 ____________________________*/
-
-
+#projects{
+    background-color: darkseagreen;
+}
+#video-tutorials {
+    float: left;
+}
 
 /* Employment Section styles 
 ____________________________*/
@@ -45,10 +90,10 @@ ____________________________*/
 
 /* Education Section styles 
 ____________________________*/
-.noDot{
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
+#education {
+    line-height: .5;
+    background-image: url("../placeholderImages/sharon-mccutcheon-unsplash.jpg");
+width}
 }
     
 }
@@ -56,3 +101,7 @@ ____________________________*/
 
 /* Contact styles 
 ____________________________*/
+#footer-list li {
+    list-style-type: none;
+    display: inline;
+}
