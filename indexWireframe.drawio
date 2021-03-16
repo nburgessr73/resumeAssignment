@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-16T00:52:25.152Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="0OqSDfDyxXOQFouI-pR7" version="14.4.8" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-03-16T01:08:01.882Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="m5TIyxBK4KHkN39GO_tg" version="14.4.8" type="github" pages="5">
   <diagram name="Index" id="2cc2dc42-3aac-f2a9-1cec-7a8b7cbee084">
     <mxGraphModel dx="862" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -35,7 +35,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="nmVz9IYJdSEcc9k1rmN6" name="Contact Me">
-    <mxGraphModel dx="862" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1149" dy="600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="d62yAR8ZY1gXt2WncbH--0" />
         <mxCell id="d62yAR8ZY1gXt2WncbH--1" parent="d62yAR8ZY1gXt2WncbH--0" />
@@ -43,7 +43,16 @@
           <mxGeometry x="570" y="390" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zOYbhCbpBV94npywNQHA-0" value="&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22div%20h2%22%20style%3D%22text%3Bhtml%3D1%3Bpoints%3D%5B%5D%3Balign%3Dleft%3BverticalAlign%3Dtop%3BspacingTop%3D-4%3BfontSize%3D12%3BfontFamily%3DVerdana%3BwhiteSpace%3Dwrap%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%2280%22%20y%3D%22725%22%20width%3D%2250%22%20height%3D%2220%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor=#666666;mainText=,;recursiveResize=0;rounded=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12" vertex="1" parent="d62yAR8ZY1gXt2WncbH--1">
-          <mxGeometry x="40" y="110" width="1050" height="970" as="geometry" />
+          <mxGeometry x="40" y="90" width="1050" height="970" as="geometry" />
+        </mxCell>
+        <mxCell id="n-vuxVjHxs2pp4vv8hm5-11" value="Section id=&quot;flex-ed" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=12;fontFamily=Verdana;whiteSpace=wrap;strokeColor=#0A0A0A;" vertex="1" parent="zOYbhCbpBV94npywNQHA-0">
+          <mxGeometry x="10" y="600" width="1010" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="n-vuxVjHxs2pp4vv8hm5-15" value="Section id=&quot;flex-summary" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=12;fontFamily=Verdana;whiteSpace=wrap;strokeColor=#121212;" vertex="1" parent="zOYbhCbpBV94npywNQHA-0">
+          <mxGeometry x="10" y="310" width="950" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="n-vuxVjHxs2pp4vv8hm5-17" value="Main" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=12;fontFamily=Verdana;whiteSpace=wrap;strokeColor=#0A0A0A;" vertex="1" parent="zOYbhCbpBV94npywNQHA-0">
+          <mxGeometry y="290" width="1040" height="590" as="geometry" />
         </mxCell>
         <mxCell id="zOYbhCbpBV94npywNQHA-1" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;fillColor=#ffffff;rounded=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;fontColor=#000000;labelBorderColor=#000000;" vertex="1" parent="zOYbhCbpBV94npywNQHA-0">
           <mxGeometry x="103" y="380" width="195" height="195" as="geometry" />
@@ -54,20 +63,17 @@
         <mxCell id="zOYbhCbpBV94npywNQHA-3" value="https://www.default.com" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;rSize=0;fontSize=17;fontColor=#666666;align=left;" vertex="1" parent="zOYbhCbpBV94npywNQHA-0">
           <mxGeometry x="130" y="60" width="250" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="zOYbhCbpBV94npywNQHA-4" value="&lt;font style=&quot;font-size: 28px&quot;&gt;Technology Education Professional&lt;/font&gt;" style="text;html=1;points=[];align=center;verticalAlign=middle;spacingTop=-4;fontSize=30;fontFamily=Verdana" vertex="1" parent="zOYbhCbpBV94npywNQHA-0">
+        <mxCell id="zOYbhCbpBV94npywNQHA-4" value="&lt;font style=&quot;font-size: 28px&quot;&gt;Technology Education Professional&lt;/font&gt;" style="text;html=1;points=[];align=center;verticalAlign=middle;spacingTop=-4;fontSize=30;fontFamily=Verdana;strokeColor=#0A0A0A;" vertex="1" parent="zOYbhCbpBV94npywNQHA-0">
           <mxGeometry x="150" y="330" width="540" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="zOYbhCbpBV94npywNQHA-5" value="Menu float: right" style="text;html=1;points=[];align=center;verticalAlign=top;spacingTop=-4;fontSize=15;fontFamily=Verdana" vertex="1" parent="zOYbhCbpBV94npywNQHA-0">
-          <mxGeometry x="370" y="140" width="390" height="30" as="geometry" />
+        <mxCell id="zOYbhCbpBV94npywNQHA-5" value="Menu float: right" style="text;html=1;points=[];align=center;verticalAlign=top;spacingTop=-4;fontSize=15;fontFamily=Verdana;labelBorderColor=none;strokeColor=#141414;" vertex="1" parent="zOYbhCbpBV94npywNQHA-0">
+          <mxGeometry x="590" y="130" width="390" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zOYbhCbpBV94npywNQHA-6" value="&lt;font style=&quot;font-size: 23px&quot;&gt;Banner Image&lt;br&gt;background: cover;&lt;br&gt;position: ?:&lt;br&gt;&lt;/font&gt;" style="text;html=1;points=[];align=center;verticalAlign=top;spacingTop=-4;fontSize=12;fontFamily=Verdana;whiteSpace=wrap;" vertex="1" parent="zOYbhCbpBV94npywNQHA-0">
-          <mxGeometry x="20" y="170" width="760" height="120" as="geometry" />
+        <mxCell id="zOYbhCbpBV94npywNQHA-6" value="&lt;font style=&quot;font-size: 23px&quot;&gt;Banner Image&lt;br&gt;background: cover;&lt;br&gt;position: ?:&lt;br&gt;&lt;/font&gt;" style="text;html=1;points=[];align=center;verticalAlign=top;spacingTop=-4;fontSize=12;fontFamily=Verdana;whiteSpace=wrap;strokeColor=#030303;" vertex="1" parent="zOYbhCbpBV94npywNQHA-0">
+          <mxGeometry x="20" y="170" width="1020" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="zOYbhCbpBV94npywNQHA-7" value="footer&lt;br&gt;&amp;amp;copy; 2021 Natosha Burgess-Rodriguez, All Rights Reserved" style="text;html=1;points=[];align=center;verticalAlign=top;spacingTop=-4;fontSize=15;fontFamily=Verdana" vertex="1" parent="zOYbhCbpBV94npywNQHA-0">
-          <mxGeometry x="75.5" y="890" width="944.5" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="zOYbhCbpBV94npywNQHA-9" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.markup.line;strokeColor=#999999;rounded=0;labelBackgroundColor=none;fillColor=#ffffff;fontFamily=Verdana;fontSize=12;fontColor=#000000;" vertex="1" parent="zOYbhCbpBV94npywNQHA-0">
-          <mxGeometry y="310" width="1050" height="20" as="geometry" />
+        <mxCell id="zOYbhCbpBV94npywNQHA-7" value="footer&lt;br&gt;&amp;amp;copy; 2021 Natosha Burgess-Rodriguez, All Rights Reserved" style="text;html=1;points=[];align=center;verticalAlign=top;spacingTop=-4;fontSize=15;fontFamily=Verdana;strokeColor=#030303;" vertex="1" parent="zOYbhCbpBV94npywNQHA-0">
+          <mxGeometry x="10" y="890" width="1030" height="70" as="geometry" />
         </mxCell>
         <mxCell id="zOYbhCbpBV94npywNQHA-10" value="Professional Summary&amp;nbsp;&lt;br&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum." style="text;spacingTop=-5;whiteSpace=wrap;html=1;align=left;fontSize=12;fontFamily=Helvetica;fillColor=none;strokeColor=none;rounded=0;shadow=1;labelBackgroundColor=none;labelBorderColor=#000000;" vertex="1" parent="zOYbhCbpBV94npywNQHA-0">
           <mxGeometry x="403" y="390" width="290" height="175" as="geometry" />
@@ -87,8 +93,8 @@
         <mxCell id="zOYbhCbpBV94npywNQHA-17" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Master of Educational Technology&lt;/font&gt;" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=12;fontFamily=Verdana;whiteSpace=wrap;" vertex="1" parent="zOYbhCbpBV94npywNQHA-0">
           <mxGeometry x="75.5" y="640" width="250" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zOYbhCbpBV94npywNQHA-18" value="Natosha Burgess-Rodriguez (put name in banner?)" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=15;fontFamily=Verdana" vertex="1" parent="zOYbhCbpBV94npywNQHA-0">
-          <mxGeometry x="15" y="120" width="170" height="30" as="geometry" />
+        <mxCell id="zOYbhCbpBV94npywNQHA-18" value="Natosha Burgess-Rodriguez (put name in banner?)" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=15;fontFamily=Verdana;strokeColor=#050505;" vertex="1" parent="zOYbhCbpBV94npywNQHA-0">
+          <mxGeometry x="15" y="120" width="215" height="30" as="geometry" />
         </mxCell>
         <mxCell id="n-vuxVjHxs2pp4vv8hm5-0" value="Employment" style="text;html=1;points=[];align=center;verticalAlign=top;spacingTop=-4;fontSize=15;fontFamily=Verdana" vertex="1" parent="zOYbhCbpBV94npywNQHA-0">
           <mxGeometry x="403" y="610" width="170" height="30" as="geometry" />
@@ -117,9 +123,6 @@
         <mxCell id="n-vuxVjHxs2pp4vv8hm5-10" value="Wake Tech Graphic" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=12;fontFamily=Verdana;whiteSpace=wrap;" vertex="1" parent="zOYbhCbpBV94npywNQHA-0">
           <mxGeometry x="417.5" y="680" width="130" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="n-vuxVjHxs2pp4vv8hm5-11" value="Section id=&quot;flex-ed" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=12;fontFamily=Verdana;whiteSpace=wrap;" vertex="1" parent="zOYbhCbpBV94npywNQHA-0">
-          <mxGeometry x="10" y="600" width="130" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="n-vuxVjHxs2pp4vv8hm5-12" value="div h2" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=12;fontFamily=Verdana;whiteSpace=wrap;" vertex="1" parent="zOYbhCbpBV94npywNQHA-0">
           <mxGeometry x="40" y="615" width="50" height="20" as="geometry" />
         </mxCell>
@@ -129,8 +132,17 @@
         <mxCell id="n-vuxVjHxs2pp4vv8hm5-14" value="div img a" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=12;fontFamily=Verdana;whiteSpace=wrap;" vertex="1" parent="zOYbhCbpBV94npywNQHA-0">
           <mxGeometry x="10" y="680" width="65.5" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="n-vuxVjHxs2pp4vv8hm5-15" value="Section id=&quot;flex-summary" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=12;fontFamily=Verdana;whiteSpace=wrap;" vertex="1" parent="zOYbhCbpBV94npywNQHA-0">
-          <mxGeometry x="10" y="345" width="130" height="20" as="geometry" />
+        <mxCell id="Z1Y_6V4tC1RMV9KsRjDM-0" value="p" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=12;fontFamily=Verdana;whiteSpace=wrap;" vertex="1" parent="zOYbhCbpBV94npywNQHA-0">
+          <mxGeometry x="335" y="390" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Z1Y_6V4tC1RMV9KsRjDM-1" value="img" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=12;fontFamily=Verdana;whiteSpace=wrap;" vertex="1" parent="zOYbhCbpBV94npywNQHA-0">
+          <mxGeometry x="25.5" y="380" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Z1Y_6V4tC1RMV9KsRjDM-2" value="h1 or h2" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=12;fontFamily=Verdana;whiteSpace=wrap;" vertex="1" parent="zOYbhCbpBV94npywNQHA-0">
+          <mxGeometry x="70" y="340" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Z1Y_6V4tC1RMV9KsRjDM-3" value="name in banner h1" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=12;fontFamily=Verdana;whiteSpace=wrap;" vertex="1" parent="zOYbhCbpBV94npywNQHA-0">
+          <mxGeometry x="480" y="260" width="250" height="20" as="geometry" />
         </mxCell>
         <mxCell id="n-vuxVjHxs2pp4vv8hm5-6" value="Image of Natosha" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=12;fontFamily=Verdana;whiteSpace=wrap;" vertex="1" parent="d62yAR8ZY1gXt2WncbH--1">
           <mxGeometry x="190" y="510" width="130" height="20" as="geometry" />
